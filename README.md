@@ -1,16 +1,34 @@
-## Hi there 👋
+# Mohammad Abdalmuhsen
 
-<!--
-**Moh2200/Moh2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on building reliable systems end to end, with a strong focus on backend, APIs, and data flow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+Experience across:
+- Backend development and API design  
+- Database modeling and SQL  
+- Frontend with React and TypeScript  
+- Mobile development  
+- Production releases, bug fixing, and maintenance  
+
+---
+
+## Cloud & Certifications
+
+Microsoft Certified: Azure Fundamentals (AZ-900)  
+[Azure Certification](https://learn.microsoft.com/api/credentials/share/en-us/MohammadAbdalmuhsen-1168/CCC7DE36601278D3?sharingId=BB6862BDFF42FBE6)
+---
+
+## Tech
+
+Node.js, Express, PostgreSQL, SQL  
+React, TypeScript, React Native  
+APIs, integrations, authentication  
+
+---
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/mohammad-abdalmuhsen-b9232a164)
