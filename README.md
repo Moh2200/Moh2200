@@ -1,7 +1,6 @@
 # Mohammad Abdalmuhsen
 
-Software developer focused on backend, APIs and data flow.
-
+Software developer building reliable systems across frontend, backend, and cloud.
 ### 🛠 Experience
 Backend and API design • SQL and database modeling • React and TypeScript • Mobile development • Production releases and maintenance
 
